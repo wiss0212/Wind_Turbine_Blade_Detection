@@ -1,0 +1,26 @@
+﻿  CodeTest.cpp
+C:\Users\daouiaouissem\source\repos\TestTechnique\TestTechnique\CodeTest.cpp(13,31): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\daouiaouissem\source\repos\TestTechnique\TestTechnique\CodeTest.cpp(14,29): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\daouiaouissem\source\repos\TestTechnique\TestTechnique\CodeTest.cpp(19,26): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\daouiaouissem\source\repos\TestTechnique\TestTechnique\CodeTest.cpp(44,67): warning C4244: 'argument': conversion from 'const float' to '_Tp', possible loss of data
+C:\Users\daouiaouissem\source\repos\TestTechnique\TestTechnique\CodeTest.cpp(44,67): warning C4244:         with
+C:\Users\daouiaouissem\source\repos\TestTechnique\TestTechnique\CodeTest.cpp(44,67): warning C4244:         [
+C:\Users\daouiaouissem\source\repos\TestTechnique\TestTechnique\CodeTest.cpp(44,67): warning C4244:             _Tp=int
+C:\Users\daouiaouissem\source\repos\TestTechnique\TestTechnique\CodeTest.cpp(44,67): warning C4244:         ]
+C:\Users\daouiaouissem\source\repos\TestTechnique\TestTechnique\CodeTest.cpp(44,54): warning C4244: 'argument': conversion from 'const float' to '_Tp', possible loss of data
+C:\Users\daouiaouissem\source\repos\TestTechnique\TestTechnique\CodeTest.cpp(44,54): warning C4244:         with
+C:\Users\daouiaouissem\source\repos\TestTechnique\TestTechnique\CodeTest.cpp(44,54): warning C4244:         [
+C:\Users\daouiaouissem\source\repos\TestTechnique\TestTechnique\CodeTest.cpp(44,54): warning C4244:             _Tp=int
+C:\Users\daouiaouissem\source\repos\TestTechnique\TestTechnique\CodeTest.cpp(44,54): warning C4244:         ]
+C:\Users\daouiaouissem\source\repos\TestTechnique\TestTechnique\CodeTest.cpp(84,42): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\daouiaouissem\source\repos\TestTechnique\TestTechnique\CodeTest.cpp(119,54): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\daouiaouissem\source\repos\TestTechnique\TestTechnique\CodeTest.cpp(137,46): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\daouiaouissem\source\repos\TestTechnique\TestTechnique\CodeTest.cpp(231,21): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\daouiaouissem\source\repos\TestTechnique\TestTechnique\CodeTest.cpp(232,22): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\daouiaouissem\source\repos\TestTechnique\TestTechnique\CodeTest.cpp(233,13): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Generating code
+  1 of 463 functions ( 0.2%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  TestTechnique.vcxproj -> C:\Users\daouiaouissem\source\repos\TestTechnique\x64\Release\TestTechnique.exe

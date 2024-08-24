@@ -1,0 +1,13 @@
+train: C:/Users/daouiaouissem/Desktop/Test_Technique/YOLO/train/images
+val:  C:/Users/daouiaouissem/Desktop/Test_Technique/YOLO/valid/images
+test: C:/Users/daouiaouissem/Desktop/Test_Technique/YOLO/test/images
+
+nc: 3
+names: ['blade 1', 'blade 2', 'blade 3']
+
+roboflow:
+  workspace: wiss
+  project: test_detection-olrh0
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/wiss/test_detection-olrh0/dataset/1
